@@ -7,7 +7,7 @@ body{
 }
 
 .images{
-    background: yellow;
+    background: blue;
     flex: 0 0 80%;
     min-height: 70vh;
     background: url('img/bcg-0.jpg')center/cover no-repeat;
